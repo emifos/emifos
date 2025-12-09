@@ -1,5 +1,5 @@
 ## Hello and welcome to my GitHub profile!
- Hi, I’m @emifos! I'm a Frontend Developer Student at Noroff. 
+ Hi, I’m Emilie Sofie Fosmo. I'm a Frontend Developer Student at Noroff. 
  
 - 👀 I'm interested in learning modern web technologies and working on real-world projects.
 - 🌱 I’m currently working on several school projects as part of my studies.
